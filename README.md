@@ -310,7 +310,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ## Proteus layout(Add pdf screen shot of circuit here) :
  
-[PMC_DESIGN_3.pdf](https://github.com/gummadileepkumar/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/files/14887324/PMC_DESIGN_3.pdf)
+
+![PMC_DESIGN_3](https://github.com/gummadileepkumar/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707761/2fed84c1-f3f7-4d40-b6ab-fa27c85160e9)
 
  
 ## Result :
